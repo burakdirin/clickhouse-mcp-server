@@ -1,5 +1,5 @@
 # Clickhouse MCP server
-[![smithery badge](https://smithery.ai/badge/@burakdirin/clickhouse-mcp-server)](https://smithery.ai/server/@burakdirin/clickhouse-mcp-server)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.burakdirin/clickhouse-mcp-server)](https://lightnow.ai/servers/io.github.burakdirin/clickhouse-mcp-server)
 
 A Clickhouse database MCP server project.
 
